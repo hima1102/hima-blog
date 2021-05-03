@@ -1,12 +1,12 @@
 ---
 # Display name
-title: A.Jeevesh Krishna
+title: T.Hima Sai
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: DevOP
+role: author
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Writer
 
 #interests:
 #- Artificial Intelligence
@@ -41,9 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'about/#contact'  # For a direct email link, use "mailto:talk2hima.1919@gmail.com".
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/mapanster
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jeevesh_
+  link: https://twitter.com/him@1919
 - icon: github
   icon_pack: fab
   link: https://github.com/jeevesh2002
@@ -57,6 +60,5 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
