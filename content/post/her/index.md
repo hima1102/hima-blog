@@ -2,12 +2,12 @@
 title: Her
 subtitle: Favorite work of mine.
 date: 2021-05-03T04:59:00.960Z
-summary: "![](her.jpg)"
+summary: "![]()"
 draft: false
 featured: false
 image:
   filename: her.jpg
-  focal_point: center
+  focal_point: topright
   preview_only: false
 ---
 ***<!--StartFragment-->***
