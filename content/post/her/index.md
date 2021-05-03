@@ -7,7 +7,8 @@ featured: false
 image:
   filename: her.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  caption: HER
 ---
 Covered by dust,
 I never saw the world crystal clean.
