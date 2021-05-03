@@ -15,7 +15,7 @@ image:
 
 *Miracles happen without a hint,* 
 
-*Yes ,oe day I saw her passing by with a kin.* 
+*Yes ,one day I saw her passing by with a kin.* 
 
 *Till then all I knew was,* 
 
