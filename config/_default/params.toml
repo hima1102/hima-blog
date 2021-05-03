@@ -187,7 +187,7 @@ plugins_js  = []
   # Which page types are commentable?
   commentable = {post = true}
 
-   Configuration of Disqus.
+   #Configuration of Disqus.
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
