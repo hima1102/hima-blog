@@ -6,7 +6,7 @@ title: T.Hima Sai
 superuser: true
 
 # Role/position
-role: author
+role: writer
 
 # Organizations/Affiliations
 organizations:
