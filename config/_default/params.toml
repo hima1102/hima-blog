@@ -113,7 +113,7 @@ email = "talk2hima.1919@gmail.com"
 ## Contact links
 ##   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links =[ 
-   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/him@1919"},]
+   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/him@1919"},
    {icon = "instagram", icon_pack = "fab", name = "Instagram", link = "https://instagram.com/mapanster/"},]
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
