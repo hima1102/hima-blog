@@ -185,7 +185,7 @@ plugins_js  = []
   provider = ""
 
   # Which page types are commentable?
-  commentable = {post = true}
+  commentable = {post = flase}
 
   # Configuration of Disqus.
   [comments.disqus]
