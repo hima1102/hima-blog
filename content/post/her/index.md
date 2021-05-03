@@ -49,4 +49,4 @@ image:
 
 *but she'll always be my only Beautiful REEF.*
 
-![](her.jpg)
+![]()
