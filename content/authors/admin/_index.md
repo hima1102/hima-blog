@@ -43,13 +43,13 @@ social:
   link: 'about/#contact'  # For a direct email link, use "mailto:talk2hima.1919@gmail.com".
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/mapanster
+  link: https://instagram.com/mapantser
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/him@1919
+  link: https://twitter.com/Hima31606829
 - icon: github
   icon_pack: fab
-  link: https://github.com/jeevesh2002
+  link: https://github.com/jeevesh2002/hima-blog
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
