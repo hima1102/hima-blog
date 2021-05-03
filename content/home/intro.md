@@ -4,7 +4,7 @@ widget_id: updated title
 headless: true
 weight: 10
 title: ✏️ mApantser's Blog
-subtitle: Only palce where you find amazing content.
+subtitle: Spot for some pleasant poems and writings.
 design:
   background:
     color: "#c0166b"
