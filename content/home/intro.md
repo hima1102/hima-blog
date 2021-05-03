@@ -4,7 +4,7 @@ widget_id: updated title
 headless: true
 weight: 10
 title: ✏️ mApanster's Blog
-subtitle: Only palce where you can find amazing content.
+subtitle: Only palce where you find amazing content.
 design:
   background:
     color: "#c0166b"
