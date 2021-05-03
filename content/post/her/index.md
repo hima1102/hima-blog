@@ -5,7 +5,7 @@ date: 2021-05-03T04:50:13.304Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: her.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -30,4 +30,4 @@ Hmmm…
 After all I am a QUIVERING LEAF
 but she'll always be my only Beautiful REEF.
 
-![](her.jpg "her.png")
+![]( "her.png")
