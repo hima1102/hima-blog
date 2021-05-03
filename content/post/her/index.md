@@ -5,7 +5,7 @@ date: 2021-05-03T05:12:59.887Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -49,4 +49,4 @@ image:
 
 *but she'll always be my only Beautiful REEF.*
 
-![](featured.jpg)
+![](her.jpg)
