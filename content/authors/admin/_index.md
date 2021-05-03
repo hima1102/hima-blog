@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: A.Jeevesh Krishna
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: DevOP
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: SSN College Of Engineering
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,13 +40,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'about/#contact'  # For a direct email link, use "mailto:talk2hima.1919@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jeevesh_
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jeevesh2002
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
