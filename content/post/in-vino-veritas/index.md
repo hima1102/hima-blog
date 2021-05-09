@@ -1,5 +1,8 @@
 ---
 title: IN VINO VERITAS
+subtitle: "Incidents are depicting how worse our society has become. Nothing
+  less n nothing more we should always be ready to protect ourselves from so
+  called predators. "
 date: 2021-05-09T14:35:44.650Z
 draft: false
 featured: false
